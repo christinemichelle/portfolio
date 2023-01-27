@@ -1,0 +1,27 @@
+.links{
+    color: white;
+    background-color: white;
+}
+p{
+    margin-inline-start: 4px;
+}
+.btn btn-primary{
+    margin-left: 2px;
+}
+body{
+    padding-top: 56px;
+    text-align: center;
+}
+.container{
+    margin-top: 56px;
+}
+body{
+    background-attachment: fixed;
+    background-color: rosybrown;
+    padding-top: 56px;
+}
+img{
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
